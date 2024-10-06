@@ -5,7 +5,7 @@
         <div class="flex flex-1 items-center justify-center md:items-stretch md:justify-start">
           <a class="flex flex-shrink-0 items-center mr-4" href="/">
             <img class="h-16 w-auto" :src="logo" alt="get hired" />
-            <span class="hidden md:block text-white text-2xl font-bold ml-2">Bluelily Suites</span>
+            <span class="hidden md:block text-white text-2xl font-bold ml-2">Bluelily Consult</span>
           </a>
           <div class="md:ml-auto mt-2">
             <div class="flex space-x-2">
