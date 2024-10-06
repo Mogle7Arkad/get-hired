@@ -38,4 +38,5 @@
 </template>
 
 <script setup>
+import logo from '@/assets/bluelily.png'
 </script>
