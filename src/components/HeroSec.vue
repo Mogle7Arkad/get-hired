@@ -3,7 +3,11 @@ import {defineProps} from 'vue';
 defineProps ({
 title: {
     type: String,
-    default: 'Be employed',
+    default: 'Get Hired',
+},
+subtitle: {
+    type: String,
+    default: 'Find the job that fits your skillz and needs',
 }
 })
 </script>
@@ -12,10 +16,10 @@ title: {
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center">
             <div class="text-center">
                 <h1 class="text-4xl font-extrabold text-white sm:text-5xl md:text-6xl">
-                    Get Hired
+                    {{ title }}
                 </h1>
                 <p class="my-4 text-xl text-white">
-                    Find the job that fits your skillz and needs
+                    {{ subtitle }}
                 </p>
             </div>
         </div>

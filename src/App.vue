@@ -1,6 +1,6 @@
 <template>
     <NavBar />
-    <HeroSec title="Testing props" />
+    <HeroSec />
 </template>
 
 <script setup>
