@@ -1,4 +1,12 @@
-<script setup></script>
+<script setup>
+import {defineProps} from 'vue';
+defineProps ({
+title: {
+    type: String,
+    default: 'Be employed',
+}
+})
+</script>
 <template>
     <section class="bg-green-700 py-20 mb-4">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center">
