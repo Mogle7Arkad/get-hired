@@ -1,4 +1,6 @@
-<script setup></script>
+<script setup>
+import Card from './Card.vue';
+</script>
 <template>
   <section>
     <div class="container-xl lg:container m-auto">
