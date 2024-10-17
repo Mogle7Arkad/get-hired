@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Social Media Manager",
+    "type": "Full-Time",
+    "description": "We are seeking a talented social media manager to join our team at Apo Resettlement, FCT ",
+    "location": "Apo Resettlement, FCT",
+    "salary": "N70K - N80K",
+    "company": {
+      "name": "Yargote Foundation",
+      "description": "Yargote foundation is an NGO that sees to the training and upbringing of the boychild. Having observed and discovered that the girlchild are been considered more while the boychild is hardly catered for, she sees the need for the boychild to be cared for and nurtured too.",
+      "contactEmail": "contact@yargotefoundation.com",
+      "contactPhone": "555-555-5555"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Front Desk Officer",
+    "type": "Full-Time",
+    "description": "we seek an experienced front desk officer at Orgza Consultancy Limited",
+    "location": "Sabo, KD",
+    "salary": "$70K - $80K",
+    "company": {
+      "name": "Orgza Consultancy Limited",
+      "description": "Orgza Consultancy Limited is a Human resource and capacity development company that sees the training and provision of domestics staff for the teaming population of the working class of the city",
+      "contactEmail": "contact@orgzaconsultltd.com",
+      "contactPhone": "555-595-0922"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Graphics Designer",
+    "type": "Remote",
+    "description": "Are you passionate about graphics design? Join our team in vibrant Garki, FCT, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+    "location": "Garki, FCT",
+    "salary": "N100K - N120K",
+    "company": {
+      "name": "Linkeify",
+      "description": "Linkeify is a company that seeks to break the bottleneck experienced by evenet planners and individuals alike  and event service providers to easily meet and interact. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+      "contactEmail": "contact@linkeify.com",
+      "contactPhone": "764-425-9078"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Business Analyst",
+    "type": "Part-Time",
+    "description": "Join our team as a Part-Time Business Analyst in beautiful PortHarcourt City, PH. We are looking for a self-motivated individual with a passion for clear analysis. This position offers flexible hours and the opportunity to work remotely.",
+    "location": "PortHarcourt, PH",
+    "salary": "N60K - N70K",
+    "company": {
+      "name": "Ace Solutions",
+      "description": "Ace Solutions is a dynamic startup specializing in digital marketing and business analysis and development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+      "contactEmail": "contact@acesolveit.com",
+      "contactPhone": "745-577-5356"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Full Stack Vue Developer",
+    "type": "Full-Time",
+    "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Kafanchan, KAF. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+    "location": "Kafanchan, KAF",
+    "salary": "N90K - N100K",
+    "company": {
+      "name": "Ace Concepts",
+      "description": "Ace Cocepts is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+      "contactEmail": "talktous@aceconcepts.com",
+      "contactPhone": "226-445-5335"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Physics Instructor",
+    "type": "Full-Time",
+    "description": "Join the dedicated staffs of Anglican Junior Seminary Kafanchan to help tutor and enhance the excellent performance of the students in a vibrant and dynamic learning environment filled with possibilities.",
+    "location": "Kafanchan, KAF",
+    "salary": "N50K - N75K",
+    "company": {
+      "name": "Anglican Junior Seminary",
+      "description": "Anglican Junior Seminary is a renowned academic environment witha track record of producing not only successful people but rleiable and well behave individuals that have contributed to the progress of the school and city.",
+      "contactEmail": "contact@ajskaf.com",
+      "contactPhone": "132-767-3123"
+    }
+  }
+]
