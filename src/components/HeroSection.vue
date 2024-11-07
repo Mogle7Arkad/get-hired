@@ -21,10 +21,10 @@ defineProps({
           <h1
             class="text-4xl font-extrabold text-white sm:text-5xl md:text-6xl"
           >
-            Get employed
+            {{ title }}
           </h1>
           <p class="my-4 text-xl text-white">
-            Find the right job that fits your skills and needs
+            {{ subtitle }}
           </p>
         </div>
       </div>
