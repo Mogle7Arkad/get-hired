@@ -7,9 +7,9 @@ import Card from './Card.vue';
       <div class="container-xl lg:container m-auto">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-4 p-4 rounded-lg">
           <Card>
-            <h2 class="text-2xl font-bold">For Developers</h2>
+            <h2 class="text-2xl font-bold">For Job seekers</h2>
             <p class="mt-2 mb-4">
-              Browse our Vue jobs and start your career today
+              Browse our jobs and start your career today
             </p>
             <a
               href="jobs.html"
@@ -21,7 +21,7 @@ import Card from './Card.vue';
           <Card>
             <h2 class="text-2xl font-bold">For Employers</h2>
             <p class="mt-2 mb-4">
-              List your job to find the perfect developer for the role
+              List your job to find the perfect candidate for the role
             </p>
             <a
               href="add-job.html"
