@@ -1,7 +1,7 @@
 <script setup>
 import { defineProps, ref, computed } from 'vue';
 
-defineProps({
+const props = defineProps({
     job:Object
 });
 
