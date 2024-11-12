@@ -1,9 +1,11 @@
 <script setup>
-import { defineProps } from 'vue';
+import { defineProps, ref, computed } from 'vue';
 
 defineProps({
     job:Object
-})
+});
+
+const showFullDescription = ref(false);
 </script>
 
 <template>
