@@ -6,6 +6,14 @@ const props = defineProps({
 });
 
 const showFullDescription = ref(false);
+
+const truncatedDescription = computed(() => {
+    let description = props.job.description;
+    if(!showFullDescription.value) {
+        description = description.substring(0, 90) + '...';
+    }
+    return description
+})
 </script>
 
 <template>
@@ -17,7 +25,7 @@ const showFullDescription = ref(false);
             </div>
 
             <div class="mb-5">
-                {{ job.description }}
+                {{ truncatedDescription }}
             </div>
 
             <h3 class="text-green-500 mb-2">{{ job.salary }} / Month</h3>
